@@ -1,5 +1,5 @@
 {
-  "name": "react-native-apollo-example",
+  "name": "react-native-apollo-local-example",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
